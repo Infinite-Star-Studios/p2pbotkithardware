@@ -15,9 +15,9 @@ so confirm them when you order.
 
 ## Why not a custom chip?
 
-The kit is about 16,000 lines of TypeScript. It needs Linux (or macOS),
-Node.js 22 or later, roughly 250 MB of RAM and 350 MB of disk. That rules
-out the alternatives:
+The kit is about 15,000 lines of TypeScript, plus 12,000 lines of tests.
+It needs Linux (or macOS), Node.js 22 or later, roughly 250 MB of RAM and
+350 MB of disk. That rules out the alternatives:
 
 - A microcontroller such as an ESP32 has less than 1 MB of RAM and cannot
   run it.
